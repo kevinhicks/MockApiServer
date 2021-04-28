@@ -1,24 +1,28 @@
 {
     "Name": "Bilbo Baggins",
     "Number": "8080808",
+    "TotalBal": 14664,
     "id": "8080808",
     "Accounts": [
         {
-            "Name": "Awesome Checking",
-            "Number": "0000",
-            "id": "0000",
+            "Name": "Awesome Checking 1",
+            "Number": "0050",
+            "Primary": "8080808",
+            "id": "8080808-0050",
             "Balance": 4888.00
         },
         {
-            "Name": "Awesome Savings",
-            "Number": "0000",
-            "id": "0000",
+            "Name": "Awesome Savings 1",
+            "Number": "0051",            
+            "Primary": "8080808",            
+            "id": "8080808-0051",
             "Balance": 4888.00
         },
         {
-            "Name": "Awesome Savings",
-            "Number": "0000",
-            "id": "0000",
+            "Name": "Awesome Savings 2",
+            "Number": "0052",            
+            "Primary": "8080808",            
+            "id": "8080808-0052",
             "Balance": 4888.00
         }
     ]
