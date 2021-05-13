@@ -9,7 +9,8 @@
             "Number": "0050",
             "Primary": "8080808",
             "id": "8080808-0050",
-            "Balance": 4888.00
+            "Balance": 4888.00,
+            "HasJoints": false
         },
         {
             "Name": "Awesome Savings 1",
@@ -30,42 +31,48 @@
             "Number": "0053",            
             "Primary": "8080808",            
             "id": "8080808-0053",
-            "Balance": 4888.00
+            "Balance": 4888.00,
+            "HasJoints": true
         },
         {
             "Name": "Awesome Savings 4",
             "Number": "0054",            
             "Primary": "8080808",            
             "id": "8080808-0054",
-            "Balance": 4888.00
+            "Balance": 4888.00,
+            "HasJoints": true
         },
         {
             "Name": "Awesome Savings 5",
             "Number": "0055",            
             "Primary": "8080808",            
             "id": "8080808-0055",
-            "Balance": 4888.00
+            "Balance": 4888.00,
+            "HasJoints": false
         },
         {
             "Name": "Awesome Savings 6",
             "Number": "0056",            
             "Primary": "8080808",            
             "id": "8080808-0056",
-            "Balance": 4888.00
+            "Balance": 4888.00,
+            "HasJoints": true
         },
         {
             "Name": "Awesome Savings 7",
             "Number": "0057",            
             "Primary": "8080808",            
             "id": "8080808-0057",
-            "Balance": 4888.00
+            "Balance": 4888.00,
+            "HasJoints": false
         },
         {
             "Name": "Awesome Savings 8",
             "Number": "0058",            
             "Primary": "8080808",            
             "id": "8080808-0058",
-            "Balance": 4888.00
+            "Balance": 4888.00,
+            "HasJoints": true
         }
     ]
 }
